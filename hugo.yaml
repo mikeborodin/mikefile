@@ -1,0 +1,107 @@
+baseURL: https://mikefile.com/
+languageCode: en-us
+title: Mikefile 🐮
+theme: congo
+
+outputs:
+  home: [ "HTML", "RSS", "JSON" ]
+
+params:
+  author:
+    name: Mike
+    headline: Fulltime flutter & community
+    bio: Flutter tech lead at Appsfactory GmbH
+    links:
+      - twitter: https://instagram.com/borodin.mike
+
+  colorScheme: mike
+  defaultAppearance: dark
+  autoSwitchAppearance: true
+  enableSearch: true
+  enableCodeCopy: true
+  enableImageLazyLoading: true
+  enableImageWebp: true
+  enableQuicklink: true
+  fingerprintAlgorithm: sha256
+  header:
+    layout: basic
+    showTitle: true
+  footer:
+    showCopyright: true
+    showThemeAttribution: true
+    showAppearanceSwitcher: true
+    showScrollToTop: true
+  # homepage:
+  #   layout: custom
+  #   showRecent: false
+  #   recentLimit: 5
+  article:
+    showDate: true
+    showDateUpdated: false
+    showAuthor: true
+    showBreadcrumbs: true
+    showDraftLabel: true
+    showEdit: true
+    editURL: https://github.com/jpanther/congo/tree/dev/exampleSite/content/
+    editAppendPath: true
+    showHeadingAnchors: true
+    showPagination: true
+    invertPagination: false
+    showReadingTime: true
+    showTableOfContents: true
+    showTaxonomies: false
+    showWordCount: false
+    showComments: false
+  list:
+    showBreadcrumbs: true
+    showSummary: false
+    showTableOfContents: true
+    showTaxonomies: false
+    groupByYear: false
+    paginationWidth: 1
+  sitemap:
+    excludedKinds:
+    - taxonomy
+    - term
+  taxonomy:
+    showTermCount: true
+  fathomAnalytics: {}
+  verification: {}
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+  tableOfContents:
+    startLevel: 2
+    endLevel: 3
+
+
+menus:
+  main:
+  - name: Docs
+    pageRef: docs
+    weight: 10
+  - name: Samples
+    pageRef: samples
+    weight: 20
+  - name: Shortcodes
+    pageRef: docs/shortcodes
+    weight: 30
+  - name: GitHub
+    url: https://github.com/jpanther/congo
+    weight: 40
+    params:
+      icon: github
+      showName: false
+      target: _blank
+  - identifier: search
+    weight: 99
+    params:
+      action: search
+  - identifier: locale
+    weight: 100
+    params:
+      action: locale
