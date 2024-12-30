@@ -14,7 +14,7 @@ params:
     links:
       - twitter: https://instagram.com/borodin.mike
 
-  colorScheme: mike
+  colorScheme: teal
   defaultAppearance: dark
   autoSwitchAppearance: true
   enableSearch: true
