@@ -3,327 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
-  
-    
       <url>
-            <loc>http://localhost:1313/docs/</loc>
-            <lastmod>2022-01-20T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/docs/version-2/upgrade/</loc>
-            <lastmod>2022-01-20T00:00:00+00:00</lastmod>
+            <loc>https://mikefile.com/projects/</loc>
+            <lastmod>2025-01-06T22:22:24+01:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/</loc>
-            <lastmod>2023-01-23T00:00:00+00:00</lastmod>
+            <loc>https://mikefile.com/</loc>
+            <lastmod>2025-01-06T22:22:24+01:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/docs/version-2/_index.zh-hans/</loc>
-            <lastmod>2022-01-19T00:00:00+00:00</lastmod>
+            <loc>https://mikefile.com/notes/12-factors/</loc>
+            <lastmod>2025-01-06T21:55:08+01:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/docs/version-2/_index.ja/</loc>
-            <lastmod>2022-01-19T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/docs/version-2/</loc>
-            <lastmod>2022-01-19T00:00:00+00:00</lastmod>
+            <loc>https://mikefile.com/notes/</loc>
+            <lastmod>2025-01-06T21:55:08+01:00</lastmod>
           </url>
     
   
     
   
-    
-      <url>
-            <loc>http://localhost:1313/docs/installation/</loc>
-            <lastmod>2020-08-16T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/docs/getting-started/</loc>
-            <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/docs/configuration/</loc>
-            <lastmod>2020-08-14T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/samples/</loc>
-            <lastmod>2023-01-23T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/samples/icons/</loc>
-            <lastmod>2023-01-23T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/docs/homepage-layout/</loc>
-            <lastmod>2020-08-13T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/docs/front-matter/</loc>
-            <lastmod>2020-08-12T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/docs/shortcodes/</loc>
-            <lastmod>2020-08-11T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/docs/partials/</loc>
-            <lastmod>2020-08-10T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/docs/content-examples/</loc>
-            <lastmod>2020-08-09T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/docs/advanced-customisation/</loc>
-            <lastmod>2020-08-08T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/docs/hosting-deployment/</loc>
-            <lastmod>2020-08-07T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/samples/markdown/</loc>
-            <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/samples/rich-content/</loc>
-            <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/samples/mathematical-notation/</loc>
-            <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/samples/charts/</loc>
-            <lastmod>2019-03-06T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/samples/diagrams-flowcharts/</loc>
-            <lastmod>2019-03-06T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/samples/emoji/</loc>
-            <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/docs/version-2/lighthouse/</loc>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/tags/advanced/_index.ja/</loc>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/tags/advanced/_index.zh-cn/</loc>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/tags/advanced/_index.es/</loc>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/samples/_index.de/</loc>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/tags/_index.es/</loc>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/samples/_index.es/</loc>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/tags/_index.ja/</loc>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/tags/_index.zh-cn/</loc>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/samples/_index.ja/</loc>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/samples/_index.zh-hans/</loc>
-          </url>
     
   
 </urlset>

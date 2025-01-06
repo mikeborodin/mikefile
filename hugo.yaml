@@ -1,6 +1,6 @@
 baseURL: https://mikefile.com/
 languageCode: en-us
-title: Mikefile 🐮
+title: Mikefile.com
 theme: congo
 
 outputs:
@@ -9,10 +9,9 @@ outputs:
 params:
   author:
     name: Mike
-    headline: Fulltime flutter & community
-    bio: Flutter tech lead at Appsfactory GmbH
-    links:
-      - twitter: https://instagram.com/borodin.mike
+    image: assets/img/ava3.jpg
+    headline: 
+    bio: 
 
   colorScheme: teal
   defaultAppearance: dark
@@ -31,10 +30,10 @@ params:
     showThemeAttribution: true
     showAppearanceSwitcher: true
     showScrollToTop: true
-  # homepage:
-  #   layout: custom
-  #   showRecent: false
-  #   recentLimit: 5
+  homepage:
+    # layout: page
+    showRecent: true
+    recentLimit: 5
   article:
     showDate: true
     showDateUpdated: false
@@ -81,17 +80,14 @@ markup:
 
 menus:
   main:
-  - name: Docs
-    pageRef: docs
+  - name: Notes
+    pageRef: notes
     weight: 10
-  - name: Samples
-    pageRef: samples
-    weight: 20
-  - name: Shortcodes
-    pageRef: docs/shortcodes
-    weight: 30
+  # - name: Projects
+  #   pageRef: projects
+  #   weight: 10
   - name: GitHub
-    url: https://github.com/jpanther/congo
+    url: https://github.com/mikeborodin
     weight: 40
     params:
       icon: github
