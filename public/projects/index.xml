@@ -2,11 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Mikefile.com</title>
-    <link>https://mikefile.com/projects/</link>
+    <link>http://localhost:1313/projects/</link>
     <description>Recent content in Projects on Mikefile.com</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://mikefile.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Jan 2025 22:22:24 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Williams Sausage Com</title>
+      <link>http://localhost:1313/projects/williams-sausage-com/</link>
+      <pubDate>Mon, 06 Jan 2025 22:22:24 +0100</pubDate>
+      <guid>http://localhost:1313/projects/williams-sausage-com/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blackopsanimation</title>
+      <link>http://localhost:1313/projects/blackopsanimation/</link>
+      <pubDate>Mon, 06 Jan 2025 22:22:02 +0100</pubDate>
+      <guid>http://localhost:1313/projects/blackopsanimation/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
